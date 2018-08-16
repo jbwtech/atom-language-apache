@@ -1,6 +1,7 @@
 'fileTypes': [
   'conf'
   'htaccess'
+  'overrides'
 ]
 'name': 'Apache'
 'patterns': [
